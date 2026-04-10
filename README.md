@@ -2,6 +2,8 @@
 
 A ready-to-run Discord bot powered by Claude Code CLI. Uses your Claude Max subscription — no API key, no per-token billing.
 
+**Coming from OpenClaw?** See [`MIGRATION.md`](./MIGRATION.md) — paste it into your existing agent and it will walk itself through the transfer.
+
 ---
 
 ## What's Included
